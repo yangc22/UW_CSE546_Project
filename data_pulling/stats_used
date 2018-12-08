@@ -1,0 +1,26 @@
+'stats.defense.blk' - team blk
+'stats.defense.blkAgainst' - opponent blk
+'stats.defense.ptsAgainst' - opponent pts
+'stats.defense.stl' - team stl
+'stats.defense.tov' - team turnovers
+'stats.fieldGoals.fg2PtAtt' - field goals of 2 pts attempts
+'stats.fieldGoals.fg2PtMade' - field goals of 2pts made
+'stats.fieldGoals.fg2PtPct' - field goals of 2pts percentage
+'stats.fieldGoals.fg3PtAtt' - field goals of 3 pts attempts
+'stats.fieldGoals.fg3PtMade' - field goals of 3 pts made
+'stats.fieldGoals.fg3PtPct' - field goals of 3 pts percentage
+'stats.fieldGoals.fgAtt' - field goals attempt
+'stats.fieldGoals.fgMade' - field goals made
+'stats.fieldGoals.fgPct' - field goals percentage
+'stats.freeThrows.ftAtt' - free throws attempt
+'stats.freeThrows.ftMade' - free throws made
+'stats.freeThrows.ftPct' - free throw percentage
+'stats.miscellaneous.ejections' - team ejections
+'stats.miscellaneous.foulPers' - team fouls
+'stats.miscellaneous.foulPersDrawn' - opponent fouls
+'stats.miscellaneous.plusMinus' - result of the game
+'stats.offense.ast' - team assist
+'stats.offense.pts' - team points
+'stats.rebounds.defReb' - team defensive rebounds
+'stats.rebounds.offReb' - team offensive rebounds
+'stats.rebounds.reb' - team rebounds
