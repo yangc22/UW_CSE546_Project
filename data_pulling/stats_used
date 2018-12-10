@@ -24,3 +24,11 @@
 'stats.rebounds.defReb' - team defensive rebounds
 'stats.rebounds.offReb' - team offensive rebounds
 'stats.rebounds.reb' - team rebounds
+
+
+
+number of features used:  76
+number of training samples:  1442
+number of validation samples:  106
+number of test samples:  59
+(1442, 76) (1442,) (106, 76) (106,) (59, 76) (59,)
